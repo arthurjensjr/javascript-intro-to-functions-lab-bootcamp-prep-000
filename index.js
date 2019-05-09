@@ -11,5 +11,5 @@ function logShout(string){
 } 
 
 function logWispher(string){
-  
+  console.log('hello') 
 }
